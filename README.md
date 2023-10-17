@@ -1,4 +1,4 @@
-# StarkNet Specifications
+# Starknet Specifications
 
 This repository publishes different technical specifications pertaining to the implementation and interaction with StarkNet.
 
